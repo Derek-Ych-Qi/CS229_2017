@@ -13,3 +13,4 @@ I also have the toolbox folder appended to this repo.
 ## Contents
 - Week 2: Linear regression, gradient descent
 - Week 3: Logistic regression, regularization
+- Week 4: Multiclass classification and neural network
